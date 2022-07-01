@@ -5,5 +5,5 @@
 3. python3 lyz.py IP -p PORT -t TIME
 4. input password, just dm Lyzee#9999/join discord https://discord.gg/KZ3EeU3xjv
 
-#DONT ABUSE THIS TOOLS
-#Author : xLyz
+_DONT ABUSE THIS TOOLS_
+_Author : xLyz_
